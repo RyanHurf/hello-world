@@ -1,17 +1,5 @@
 ## History of Classical Music in Rock and Metal
 
-```sh
-# Let's make a new folder
-mkdir new-repo && cd new-repo
-# Start a Git instance and copy over template files.
-git init
-cp ../repo-template/* .
-# Overwrite this README
-mv README.md setup-checklist.md
-mv example-README.md README.md
-# Go over and check off the checklist, and finally
-rm setup-checklist
-```
 
 ## Why use it/why its beneficial/do you need to know it
 
