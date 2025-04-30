@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-top: 6em;
+    margin-left: 15em;
+    margin-right: 15em;
+    background-color:  lightblue;
+    color: black;
+  }
+  
+  h1 {
+    color: black;
+    border-bottom: 2px solid black;
+    padding-bottom: 0.3em;
+    text-align: center;
+  }
+  
+  .textbold {
+    font-weight: bold;
+  }
+
+  .textitalic {
+    font-style: italic;
+  }
+
+  .textbolditalic {
+    font-style: italic;
+    font-weight: bold;
+  }
+
+  .redtext {
+    color:  red;
+  }
+
+  .redtextbold {
+    color: red;
+    font-weight: bold;
+  }
+
+  h2 {
+      text-decoration:underline;
+  }
+
+  .indented {
+      text-indent: 2em;
+  }
+
+  .imageborder {
+      border: 2px;
+      border-style: solid;
+      border-color: black;
+  }
+
+  .blackline {
+      border: 1px solid black;
+  }
